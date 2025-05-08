@@ -93,7 +93,7 @@ This assignment should prove that a student is able to:
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
   - Space: space-image.jpg
-- [ ] Add the detail page path for each top navigation item:
+- [x] Add the detail page path for each top navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
