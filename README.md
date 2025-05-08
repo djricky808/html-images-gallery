@@ -64,20 +64,20 @@ This assignment should prove that a student is able to:
 
 **For the index.html file:**
 
-- [ ] Connect the scripts.js file
-- [ ] Connect the layout.css file
-- [ ] Connect the images-list.css file
-- [ ] Add the image file path for each gallery item's image
+- [x] Connect the scripts.js file
+- [x] Connect the layout.css file
+- [x] Connect the images-list.css file
+- [x] Add the image file path for each gallery item's image
   - Plants: plant-image.jpg
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
   - Space: space-image.jpg
-- [ ] Add the detail page path for each gallery item's "Details" link:
+- [x] Add the detail page path for each gallery item's "Details" link:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
   - Space: space.html
-- [ ] Add the detail page path for each top navigation item:
+- [x] Add the detail page path for each top navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
@@ -85,15 +85,15 @@ This assignment should prove that a student is able to:
 
 **For each page:**
 
-- [x] Connect the scripts.js file
-- [x] Connect the layout.css file
-- [x] Connect the image-detail.css file
+- [ ] Connect the scripts.js file
+- [ ] Connect the layout.css file
+- [ ] Connect the image-detail.css file
 - [ ] Add the path to the image to let it show up
   - Plants: plant-image.jpg
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
   - Space: space-image.jpg
-- [x] Add the detail page path for each top navigation item:
+- [ ] Add the detail page path for each top navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
